@@ -25,4 +25,4 @@ The UI is just the ring and the encoder.  The ring represents the tape and the e
 
 **Refer to readme.txt for more details.**
 
-*Thanks to Zafir for the inspiration.*
+*Thanks to Zafar for the inspiration.*
