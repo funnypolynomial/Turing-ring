@@ -10,7 +10,7 @@ The laser-cut enclosure uses two materials and echoes the circular LED ring and 
 
 ![Front](https://live.staticflickr.com/65535/51757020182_76fc1716af_4k.jpg)
 ![Back](https://live.staticflickr.com/65535/51757855401_92aa598598_4k.jpg)
-The UI is just the ring and the encoder.  The ring represents the tape and the encode moves a cursor around it.  Clicking the built-in push-button switches to the Editor, from which a symbol colour can be chosen, along with menu items.  The menu items let you define a Machine and give access to a number of other features including:
+The UI is just the ring and the encoder.  The ring represents the tape and the encoder moves a cursor around it.  Clicking the built-in push-button switches to the Editor, from which a symbol colour can be chosen, along with menu items.  The menu items let you define a Machine and give access to a number of other features including:
 - Load some baked-in example machines (eg binary add)
 - Move machines to and from EEPROM
 - Read/Write machines to serial.
@@ -20,6 +20,8 @@ The UI is just the ring and the encoder.  The ring represents the tape and the e
 [Video](https://youtu.be/duKEeS9pSHk)
 
 [Flickr](https://flic.kr/s/aHBqjzvGTu)
+
+[Hackaday](https://hackaday.io/project/183146-turing-ring)
 
 **Refer to readme.txt for more details.**
 
